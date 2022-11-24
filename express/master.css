@@ -1,0 +1,32 @@
+body {
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color:rgb(185, 218, 120);
+    font-size: 3rem;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+h2 {
+    color: yellow;
+    font-size: 2rem;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+h6 {
+    color: rgb(211, 211, 211);
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.hero {
+    display: block;
+    margin: 3.5rem auto 3.5rem auto;
+    max-width: 70%;
+}
